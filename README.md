@@ -19,7 +19,7 @@ These tools often come with user-friendly interfaces, allowing users to easily n
 
 Overall, a daily task productivity tool aims to streamline task management, enhance organization, and improve efficiency in completing daily tasks and achieving goals.
 
-![Example daily task productivity tool](./assets/daily_productivity_tool.png)
+![Example daily task productivity tool](./assets/daily_productivity_sample_ui.png)
 
 Your Chingu Voyage team is harnessing this dataset to craft a web application dedicated to assisting individuals in efficiently organizing their daily tasks. The application will encapsulate various features enabling users to explore and schedule their tasks effectively. Through a concise summary, users will be empowered to select specific segments for a more detailed, step-by-step breakdown.
 
