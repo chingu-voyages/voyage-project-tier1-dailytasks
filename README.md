@@ -69,6 +69,8 @@ implement to enhance this app, if time permits.
                     - Flexibility to accept multiple day numbers or day names for a task.
 - [ ] Automatically generate a daily checklist for tasks based on a matrix of categories and tasks listed against days of the month.
 - [ ] You may **_NOT_** use AI-base solution generators like GitHub CoPilot.
+- [ ] Useful links and resources:
+    - [Learn about LocalStorage in JavaScript](https://jagathishsaravanan.medium.com/learn-about-localstorage-in-javascript-228b3290275)
 
 #### Styling
 
@@ -109,7 +111,16 @@ implement to enhance this app, if time permits.
 
 ### Extras (Not Required)
 
-- Reset button to refresh from last saved copy in local storage
+- [ ] Reset button to refresh from last saved copy in local storage
+
+### Aceptance Criteria
+
+- [ ] The checklist initially loads data from the provided JSON structure.
+- [ ] After the initial load, all checklist modifications and updates are stored in the local storage.
+- [ ] Users experience uninterrupted functionality during and after the transition.
+- [ ] Tasks marked as completed persist in the local storage.
+- [ ] Clicking the "Save" button successfully updates the local storage with the latest task list state and progress.
+- [ ] The "Save" button is positioned intuitively and visibly for easy access.
 
 ## Acknowledgements
 
